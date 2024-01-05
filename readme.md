@@ -1,0 +1,1 @@
+Simple project JS Hello World. I write this with course.
